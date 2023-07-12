@@ -106,7 +106,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link is currently unavailable](<replace-with-your-deployment-URL>)
+- Live Demo Link is currently unavailable
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
